@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: cornflowerblue;
+}
+
+.ferris-opacity {
+  opacity: 0.3;
+  width: 400px;
+}
+
+.roller-opacity {
+  opacity: 0.3
+  width: 400px;
+}
+
+.tower-opacity {
+  opacity: 0.3;
+  width: 400px;
+}
+
+img {
+  width: 600px;
+  margin: 50px auto;
+  padding: 50px;
+}
